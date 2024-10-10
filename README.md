@@ -19,7 +19,7 @@
 - **JSON**
 - **Logging**.
 
-[![Watch the video](https://youtu.be/OcdofV20Z78)](https://youtu.be/OcdofV20Z78)
+[![Watch the video](https://youtu.be/OcdofV20Z78)
 
 
 
