@@ -19,6 +19,9 @@
 - **JSON**
 - **Logging**.
 
+[Watch the video on YouTube](https://youtu.be/OcdofV20Z78)
+
+
 ## Setup and Usage
 
 1. **Clone the Repository**:
