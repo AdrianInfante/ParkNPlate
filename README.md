@@ -13,12 +13,11 @@
 
 ## Technologies Used
 
-- **Python**: Core programming language used for server logic and data processing.
-- **Socket Programming**: For real-time communication between the server and cameras.
-- **Flask**: Web framework used to create the web interface and API endpoints.
-- **HTML/CSS/JavaScript**: Front-end technologies for rendering the web interface.
-- **JSON**: Format for data exchange between the server and cameras.
-- **Logging**: Utilizes Python's logging module with RotatingFileHandler to manage log files efficiently.
+- **Python**
+- **Flask**
+- **HTML/CSS/JavaScript**: Front-end.
+- **JSON**
+- **Logging**.
 
 ## Setup and Usage
 
